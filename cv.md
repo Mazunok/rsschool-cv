@@ -1,6 +1,5 @@
 # Anastasiya Mazun
 
-![Photo of myself](https://yandex.by/images/search?text=%D0%B0%D0%BD%D0%B0%D1%81%D1%82%D0%B0%D1%81%D0%B8%D1%8F%20%D0%BC%D0%B0%D0%B7%D1%83%D0%BD&from=tabbar&pos=14&img_url=https%3A%2F%2Fsun9-57.userapi.com%2Fimpg%2FZfnkx2TxbZrYjDtdUCnUWd4b7uruHgt9vcgnpA%2FDitcJs9fEHc.jpg%3Fsize%3D811x1080%26quality%3D96%26sign%3D561dcdbe7a311dfb56400d86ca3ec1d6%26c_uniq_tag%3Db9OvbzXjJtTFunN3F1hcEw8zLoJLaLM7x-AL1NayrLg%26type%3Dalbum&rpt=simage)
 
 ## Contacts
 
