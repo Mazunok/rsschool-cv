@@ -2,13 +2,13 @@
 
 ## Contacts
 
-**Location** Belarus, Minsk
+**Location:** Belarus, Minsk
 
-**Phone number** +375445341178
+**Phone number:** +375445341178
 
-**email** mazun.1999@icloud.com
+**email:** mazun.1999@icloud.com
 
-**github** [@Mazunok](https://github.com/Mazunok)
+**github:** [@Mazunok](https://github.com/Mazunok)
 
 
 ## About myself
@@ -17,4 +17,12 @@
 
   After all these unsuccessful tries, I've heard about programming and decided to learn some more information about it. I've started from the beggining, and understood that if I won't try, I'll lose something intresting in my life. So here I am. I'm ready to learn a lot of informations, rise my skills, spend my time for something I'm really intrested in. 
 
-  I want to become a Frontend Developer and I think that with my desire for knowledge and growing as a person I can do it. 
+  I want to become a Frontend Developer and I think that with my desire for knowledge and growing as a person I can do it.
+
+  ## Skills and courses
+
+  * HTML, CSS Basics 
+  * Java Script Basics in process 
+  * Git and Github for the begginers
+  * RS Schools Course «JavaScript/Front-end. Stage 0» (in progress)
+  
