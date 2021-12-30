@@ -11,6 +11,8 @@
 
 **github:** [@Mazunok](https://github.com/Mazunok)
 
+**Nickname discord:** Anastasiya Mazun(@Mazunok)
+
 
 ## About myself
 
