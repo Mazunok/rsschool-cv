@@ -16,9 +16,9 @@
 
 ## About myself
 
-  At 22 I have already tried to find myself in so many proffessions. I alwas was good at math., physics, computer science(school level), I always was intrested in numbers, and everything is connected with it. But despite all these facts I still tried to find myself in something different. I graduated *The Linguistic College* in Minsk, I worked as a waiter, manager (in hotel, salon, sport centter), makeup artist, I even tried myself in tourism. But what I can tell you, I have never thought about becoming a programer.
+  At 22 I have already tried to find myself in so many proffessions. I always was good at math., physics, computer science(school level), I always was intrested in numbers, and everything that connected with it. But despite all these facts I still tried to find myself in something different. I graduated from *The Linguistic College* in Minsk, I worked as a waiter, a manager (in a hotel, a salon, a sport center), a makeup artist, I even tried myself in tourism. But what I can tell you, I have never thought about becoming a programmer.
 
-  After all these unsuccessful tries, I've heard about programming and decided to learn some more information about it. I've started from the beggining, and understood that if I won't try, I'll lose something intresting in my life. So here I am. I'm ready to learn a lot of informations, rise my skills, spend my time for something I'm really intrested in. 
+  After all these unsuccessful attempts, I'd heard about programming and decided to learn some more information about it. I started from the beggining, and realised that if I don't try, I'll lose something intresting in my life. So here I am. I'm ready to learn a lot of information, rise my skills, spend my time for something I'm really intrested in. 
 
   I want to become a Frontend Developer and I think that with my desire for knowledge and growing as a person I can do it.
 
@@ -42,6 +42,4 @@
 
   ## Languages
   * Russian(native speaker)
-  * English(A2-B1)
-
-
+  * English(B1)git 
