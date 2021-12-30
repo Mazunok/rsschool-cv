@@ -39,6 +39,8 @@
   * RS Schools Course «JavaScript/Front-end. Stage 0» (in progress)
   * The Linguistic College 
 
-
+  ## Languages
+  * Russian(native speaker)
+  * English(A2-B1)
 
 
