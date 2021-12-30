@@ -1,5 +1,7 @@
 # Anastasiya Mazun
 
+
+
 ## Contacts
 
 **Location:** Belarus, Minsk
@@ -19,10 +21,24 @@
 
   I want to become a Frontend Developer and I think that with my desire for knowledge and growing as a person I can do it.
 
-  ## Skills and courses
+  ## Skills 
 
   * HTML, CSS Basics 
   * Java Script Basics in process 
   * Git and Github for the begginers
+
+  ## Code examples
+
+  ``` 
+  function multiply(a, b){
+  return a * b
+  }
+  ```
+
+  ## Education
   * RS Schools Course «JavaScript/Front-end. Stage 0» (in progress)
-  
+  * The Linguistic College 
+
+
+
+
