@@ -1,5 +1,6 @@
 # Anastasiya Mazun
 
+![photo](picture/pic.png)
 
 ## Contacts
 
