@@ -10,6 +10,7 @@
     transition: .3s;
     color: black;
     opacity:1;
+    text-decoration:none;
     }
 
 html {
@@ -19,12 +20,11 @@ html {
     .section {
       width: 100%;
     }
-  }
- .main{
-    font-family: Georgia, 'Times New Roman', Times, serif;
- }
+    }
  .section-title1{
-     font-size: 60px;
+     font-size: 75px;
+     font-family:Arial, Helvetica, sans-serif;
+     color:rgba(45, 45, 65, 0.644)
      
  }
 .header{
@@ -34,7 +34,8 @@ html {
     opacity:1;
     font-size: 25px;
     padding: 20px;
-    margin: 0px;
+    margin-top: 0px;
+    margin-bottom: 0px;
     border: 0px;
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
     text-decoration: none;
@@ -47,10 +48,7 @@ html {
     align-items:flex-start;
     padding: 0px 0px 200px 0px;
 }
-.baseinfo{
-    display: flex;
-    justify-content: space-around;
-}
+
 .container2{
     font-size: 25px;
     font-weight: 400;
@@ -61,7 +59,6 @@ html {
 }
 
 .container3{
-    margin: 40px;
     font-size:25px;
     font-weight:700;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
@@ -70,7 +67,6 @@ html {
     text-align-last: left;
 }
 .container4{
-    margin: 40px;
     font-size:22px;
     font-weight:700;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
@@ -79,7 +75,6 @@ html {
     text-align-last: left;
 }
 .container5{
-    margin: 40px;
     font-size:25px;
     font-weight:700;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
@@ -88,7 +83,6 @@ html {
     text-align-last: left;
 }
 .container6{
-    margin: 40px;
     font-size:25px;
     font-weight:700;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
@@ -106,4 +100,37 @@ html {
 }
 .logo{
     opacity: 0.5;
+}
+.baseinfo{
+    display: flex;
+    flex-direction: row;
+    justify-content:flex-start;
+    align-items:center;
+}
+.container1{
+    font-size: 25px;
+    color: rgba(36, 36, 39, 0.644);
+    font-weight:700;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-variant: small-caps;
+    font-style: normal;
+    text-align-last: left;
+}
+.section-title{
+    font-family:Arial, Helvetica, sans-serif;
+    color:rgba(45, 45, 65, 0.644)
+}
+.round{
+    border-radius: 50px;
+    border: 3px slategrey;
+}
+.main{
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+body{
+    margin: 0px;
+}
+a{
+    color:darkgray;
 }
