@@ -45,6 +45,7 @@ html {
     flex-direction: row;
     flex-wrap: wrap;
     align-items:flex-start;
+    padding: 0px 0px 200px 0px;
 }
 .baseinfo{
     display: flex;
@@ -94,4 +95,15 @@ html {
     font-variant: small-caps;
     font-style: normal;
     text-align-last: left;
+}
+.footer{
+    display: flex;
+    flex-direction: row-reverse;
+    justify-content: space-around;
+    align-items: flex-end;
+    font-size: 25px;
+    background-color: rgb(107, 107, 199);
+}
+.logo{
+    opacity: 0.5;
 }
