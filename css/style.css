@@ -130,7 +130,18 @@ html {
 }
 body{
     margin: 0px;
+    padding: 0px;
+    min-height: 100vh;
 }
+body {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+  }
 a{
     color:darkgray;
+}
+p{
+    margin: 0px;
+    padding: 0px;
 }
