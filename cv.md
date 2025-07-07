@@ -24,4 +24,23 @@ Redev - now
 
 RSS School 0 - now
 
+## Experience
+
+code example :
+
+```js
+ function strCount(str, letter){  
+ let sum = 0;
+  for(let i=0; i<str.length;i++){
+    if(str.charAt(i)==letter){
+      sum+=1;
+    }
+  }
+  return sum;
+}
+```
+
+CV markdown : [https://github.com/Mazunok/rsschool-cv.git]
+
+Country list(React): [https://github.com/Mazunok/react-country-list.git]
 
