@@ -1,1 +1,1 @@
-# rsschool-cv
+https://Mazunok.github.io/rsschool-cv/cv
