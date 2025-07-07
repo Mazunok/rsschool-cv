@@ -1,1 +1,1 @@
-# rsschool-cv
+[https://Mazunok.gigit thub.io/rsschool-cv/cv]
