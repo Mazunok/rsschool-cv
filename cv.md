@@ -14,6 +14,10 @@
 
 **Nickname discord:** Anastasiya Mazun(@Mazunok)
 
+## About myself
+
+I have a long learning jorney of JS/React. I already have some small projects and now I'm here to upgrade my knowleges to become a developer. The main rule of my life is never give up.
+
 ## Education
 
 Minsk linguistic college: 2014-2018
@@ -44,3 +48,8 @@ CV markdown : [https://github.com/Mazunok/rsschool-cv.git]
 
 Country list(React): [https://github.com/Mazunok/react-country-list.git]
 
+## Languages
+
+Russian-native
+English-B1
+Polish-B1
