@@ -8,9 +8,20 @@
 
 **Phone number:** +375445341178
 
-**email:** mazun.1999@icloud.com
+**email:** <mazun.1999@icloud.com>
 
 **github:** [@Mazunok](https://github.com/Mazunok)
 
 **Nickname discord:** Anastasiya Mazun(@Mazunok)
+
+## Education
+
+Minsk linguistic college: 2014-2018
+
+Teach me skills - FrontEnd/React: 2022
+
+Redev - now
+
+RSS School 0 - now
+
 
