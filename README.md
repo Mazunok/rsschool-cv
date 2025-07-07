@@ -1,1 +1,1 @@
-[https://Mazunok.gigit thub.io/rsschool-cv/cv]
+https://Mazunok.gigit thub.io/rsschool-cv/cv

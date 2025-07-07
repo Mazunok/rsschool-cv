@@ -44,9 +44,9 @@ code example :
 }
 ```
 
-CV markdown : [https://github.com/Mazunok/rsschool-cv.git]
+CV markdown : https://github.com/Mazunok/rsschool-cv.git
 
-Country list(React): [https://github.com/Mazunok/react-country-list.git]
+Country list(React): https://github.com/Mazunok/react-country-list.git
 
 ## Languages
 
