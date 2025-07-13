@@ -1,0 +1,138 @@
+@font-face {
+    font-family: "LibertinusMono";
+    src: url("assets/fonts/LibertinusMono-Regular.ttf");
+}
+
+html {
+    scroll-behavior: smooth; 
+}
+
+body{
+    font-family: "LibertinusMono";
+    min-height: 100vh;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+  }
+a{
+    text-decoration: none;
+    color:rgb(13, 12, 12);
+    transition: color 0.3s;
+}
+a:hover{
+    color: rgb(247, 0, 0);
+}
+p{
+    margin: 0px;
+    padding: 0px;
+}
+
+*{
+    box-sizing: border-box;
+}
+
+.container{
+    max-width:fit-content;
+    margin: 0 auto;
+}
+.nav-list{
+    display: flex;
+    justify-content:end;
+    align-items:center;
+    list-style: none;
+}
+.nav-link{
+    padding: 0 50px;
+    line-height: 40px;
+    transition: color 0.3s;
+    color: black;
+    opacity:1;
+    text-decoration:none;
+    }
+.nav-link:hover{
+    color: rgb(247, 0, 0);
+}
+.photo{
+    padding: 0 15px;
+    height: 200px;
+    border-radius: 35px;
+    border: 3px slategrey;
+}
+
+@media (max-width: 768px) {
+    .section {
+      width: 100%;
+    }
+    }
+ .section-title1{
+    margin: 0px 300px;
+     font-size: 75px;
+     color:rgba(24, 24, 26, 0.891)
+     
+ }
+.header{
+    display:flex;
+    justify-content:flex-start; 
+    align-items: center;
+    height:fit-content;
+    background-color: rgb(213, 213, 233);
+    opacity:1;
+    font-size: 25px;
+    padding: 20px;
+    margin-top: 20px;
+    margin-bottom: 0px;
+    border: 0px;
+    text-decoration: none;
+}
+.main{
+    margin-top: 20px;
+    margin-bottom: 0px;
+}
+.infolist{
+    display: flex;
+    justify-content: space-between;
+    flex-direction: column;
+    align-items:flex-start;
+}
+.container1{
+    padding: 0px 50px;
+    font-size: 25px;
+    color: rgba(0, 0, 0, 0.897);
+    font-weight:700;
+    font-variant: small-caps;
+    font-style: normal;
+}
+.container2{
+    padding: 0px 50px;
+    font-size: 25px;
+    font-weight: 400;
+    font-variant: normal;
+    font-style: oblique;
+    text-align:left;
+}
+.container3, .container4, .container5{
+    padding: 0px 50px;
+    font-size:25px;
+    font-weight:700;
+    font-variant: small-caps;
+    font-style: normal;
+    text-align: left;
+}
+.code{
+    color: rgb(184, 0, 25);
+}
+.footer{
+    display: flex;
+    flex-direction: row-reverse;
+    justify-content: space-around;
+    align-items: center;
+    font-size: 25px;
+    background-color: rgb(213, 213, 233);
+}
+.logo{
+    margin: 10px 0;
+    width: 150px;
+    opacity: 0.5;
+}
