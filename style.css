@@ -12,6 +12,16 @@ body{
     min-height: 100vh;
     margin: 0;
     padding: 0;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+  }
+a{
+    color:darkgray;
+}
+p{
+    margin: 0px;
+    padding: 0px;
 }
 
 *{
@@ -20,12 +30,12 @@ body{
 
 .nav-list{
     display: flex;
-    justify-content:flex-end;
+    justify-content:end;
     align-items:center;
     list-style: none;
 }
 .nav-link{
-    padding: 0 15px;
+    padding: 0 50px;
     line-height: 40px;
     transition: 0.3s;
     color: black;
@@ -34,5 +44,47 @@ body{
     }
 
 .photo{
+    padding: 0 15px;
     height: 200px;
+    border-radius: 35px;
+    border: 3px slategrey;
+}
+
+@media (max-width: 768px) {
+    .section {
+      width: 100%;
+    }
+    }
+ .section-title1{
+    margin: 0px 300px;
+     font-size: 75px;
+     color:rgba(24, 24, 26, 0.644)
+     
+ }
+.header{
+    display:flex;
+    justify-content:flex-start;
+    align-items: center;
+    height:240px;
+    background-color: rgb(213, 213, 233);
+    opacity:1;
+    font-size: 25px;
+    padding: 20px;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    border: 0px;
+    text-decoration: none;
+}
+.footer{
+    display: flex;
+    flex-direction: row-reverse;
+    justify-content: space-around;
+    align-items: center;
+    font-size: 25px;
+    background-color: rgb(213, 213, 233);
+}
+.logo{
+    margin: 10px 0;
+    width: 150px;
+    opacity: 0.5;
 }
