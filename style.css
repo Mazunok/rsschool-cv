@@ -19,6 +19,10 @@ body{
 a{
     text-decoration: none;
     color:rgb(13, 12, 12);
+    transition: color 0.3s;
+}
+a:hover{
+    color: rgb(247, 0, 0);
 }
 p{
     margin: 0px;
@@ -38,12 +42,14 @@ p{
 .nav-link{
     padding: 0 50px;
     line-height: 40px;
-    transition: 0.3s;
+    transition: color 0.3s;
     color: black;
     opacity:1;
     text-decoration:none;
     }
-
+.nav-link:hover{
+    color: rgb(247, 0, 0);
+}
 .photo{
     padding: 0 15px;
     height: 200px;
