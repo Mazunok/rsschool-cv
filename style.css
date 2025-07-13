@@ -1,0 +1,8 @@
+@font-face {
+    font-family: "LibertinusMono";
+    src: url("assets/fonts/LibertinusMono-Regular.ttf");
+}
+
+body{
+    font-family: "LibertinusMono";
+}
